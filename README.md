@@ -20,4 +20,4 @@ Additional Lex programs for assignments.
 | Program Name | Description | Link |
 |--------------|-------------|------|
 | Program1.l   | Assignment program for identifier recognition. | [Assignment-Programs/Program1.l](Assignment-Programs/Program1.l) |
-| Program2.l   | Assignment program for recognizing various representaions of real numbers in programming languages. | [Assignment-Programs/Program2.l](Assignment-Programs/Program2.l) |
+| Program2.l   | Assignment program for recognizing various representations of real numbers in programming languages. | [Assignment-Programs/Program2.l](Assignment-Programs/Program2.l) |
