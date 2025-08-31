@@ -1,6 +1,6 @@
 # Compiler Design Programs
 
-This repository contains Lex/Flex programs for compiler design lab assignments. The programs are organized into two folders:
+This repository contains Lex programs for compiler design lab assignments. The programs are organized into two folders:
 
 ## 1. Lab-Programs
 
