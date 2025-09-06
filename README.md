@@ -11,7 +11,10 @@ Lex programs for various compiler design tasks.
 | Program1.l   | Identifies valid identifiers in input. | [Lab-Programs/Program1.l](Lab-Programs/Program1.l) |
 | Program2.l   | Recognizes C keywords. | [Lab-Programs/Program2.l](Lab-Programs/Program2.l) |
 | Program3.l   | Classifies operators (arithmetic, relational, logical, bitwise, assignment). | [Lab-Programs/Program3.l](Lab-Programs/Program3.l) |
-| Program4.l   | Identifies constants, comments, identifiers, and operators. | [Lab-Programs/Program4.l](Lab-Programs/Program4.l) |
+| Program4.l   | Identifies constants, comments, identifiers, and operators in C.  | [Lab-Programs/Program4.l](Lab-Programs/Program4.l) |
+| Program5.l   | Distinguishes vowels and consonants. | [Lab-Programs/Program5.l](Lab-Programs/Program5.l)  |
+| Program6.l   | Identifies functions and comments in C.  | [Lab-Programs/Program6.l](Lab-Programs/Program6.l). |
+| Program7.c   | Top-Down parsing using backtracking (brute force) method for a given grammar.  | [Lab-Programs/Program7.c](Lab-Programs/Program7.c)  |
 
 ## 2. Assignment-Programs
 
