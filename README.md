@@ -13,11 +13,11 @@ Compiler design programs for various tasks including lexical analysis, parsing, 
 | Program3.l   | Classifies operators (arithmetic, relational, logical, bitwise, assignment). | [Lab-Programs/Program3.l](Lab-Programs/Program3.l) |
 | Program4.l   | Identifies constants, comments, identifiers, and operators in C.  | [Lab-Programs/Program4.l](Lab-Programs/Program4.l) |
 | Program5.l   | Distinguishes vowels and consonants. | [Lab-Programs/Program5.l](Lab-Programs/Program5.l)  |
-| Program6.l   | Identifies functions and comments in C.  | [Lab-Programs/Program6.l](Lab-Programs/Program6.l). |
+| Program6.l   | Identifies functions and comments in C.  | [Lab-Programs/Program6.l](Lab-Programs/Program6.l)  |
 | Program7.c   | Top-Down parsing using backtracking (brute force) method for a given grammar.  | [Lab-Programs/Program7.c](Lab-Programs/Program7.c)  |
-| Program8.c   | Recursive descent parser with lookahead for arithmetic expressions (E -> T E', E' -> + T E' | ε, T -> F T', T' -> * F T' | ε, F -> (E) | id).  | [Lab-Programs/Program8.c](Lab-Programs/Program8.c)  |
-| Program9.c   | Recursive descent parser with lookahead for parsing expressions (S -> (L) | a, L -> S L', L' -> , S L' | ε).  | [Lab-Programs/Program9.c](Lab-Programs/Program9.c)  |
-| Program10.c  | Computes FIRST sets for each non-terminal in a grammar (E -> TC, C -> +TC | ε, T -> FD, D -> *FD | ε, F -> (E) | id).  | [Lab-Programs/Program10.c](Lab-Programs/Program10.c)  |
+| Program8.c   | Recursive descent parser with lookahead for arithmetic expressions. | [Lab-Programs/Program8.c](Lab-Programs/Program8.c)  |
+| Program9.c   | Recursive descent parser with lookahead for parsing expressions with lists and parentheses. | [Lab-Programs/Program9.c](Lab-Programs/Program9.c)  |
+| Program10.c  | Computes FIRST sets for each non-terminal in a grammar. | [Lab-Programs/Program10.c](Lab-Programs/Program10.c)  |
 | Program11.l  | Counts the number of words and lines in a given file or program. | [Lab-Programs/Program11.l](Lab-Programs/Program11.l)  |
 | Program12.y  | Yacc calculator that evaluates arithmetic expressions with addition and multiplication (includes built-in yylex function). | [Lab-Programs/Program12.y](Lab-Programs/Program12.y)  |
 | Program13    | Yacc calculator with separate Lex file (Program13.l and Program13.y) for evaluating arithmetic expressions with addition and multiplication. | [Lab-Programs/Program13/](Lab-Programs/Program13/)  |
